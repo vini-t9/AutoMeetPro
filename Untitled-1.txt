@@ -1,0 +1,7 @@
+assing-> individual, batch -> alert (due date, group creation and assign, common assign, group assign, individual assign)
+
+assignment - > upload -> alert (why)
+
+faculty -> review, marks, feedback -> alert || or comments then alert 
+
+then MIS
